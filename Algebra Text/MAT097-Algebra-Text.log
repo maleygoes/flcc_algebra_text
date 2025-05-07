@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.15)  7 MAY 2025 11:30
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.4.15)  7 MAY 2025 13:32
  restricted system commands enabled.
 **MAT097-Algebra-Text.tex
 (./MAT097-Algebra-Text.tex
@@ -2335,4 +2335,3721 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 *geometry* verbose mode - [ preamble ] result:
 * driver: luatex
 * paper: a4paper
-* layout: <same si
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 469.47049pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-47.23828pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\l__xsim_aux_file_iow=\write6
+
+\openout6 = MAT097-Algebra-Text.xsim
+
+(c:/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-dictionar
+y-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 198.
+\c@lstlisting=\count395
+
+Couldn't patch \deferred@thm@head!
+
+\openout2 = ./sections/TitlePage.aux
+(./Sections/TitlePage.tex)
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 204.
+LaTeX Font Info:    Font shape `TU/Lato(0)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 204.
+LaTeX Font Info:    Font shape `TU/Lato(0)/b/n' will be
+(Font)              scaled to size 24.88pt on input line 204.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+04.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+04.
+
+(c:/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+204.
+
+(c:/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+204.
+
+(c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <20.74> on input line 204.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14.4> on input line 204.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 204.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 204
+.
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 204
+.
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 204.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 204.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 204.
+
+
+LaTeX Font Warning: Font shape `TU/Lato(0)/m/sc' undefined
+(Font)              using `TU/Lato(0)/m/n' instead on input line 204.
+
+[1
+
+
+
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/sl' in size <12> not available
+(Font)              Font shape `TU/Lato(0)/m/it' tried instead on input line 20
+6.
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 206.
+ [2
+
+
+
+]
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 206.
+
+(./MAT097-Algebra-Text.toc
+LaTeX Font Info:    Font shape `TU/Lato(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 2.
+ [3]
+Overfull \hbox (2.27998pt too wide) detected at line 52
+ []\TU/Lato(0)/m/n/12 100
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 53
+ []\TU/Lato(0)/m/n/12 103
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 54
+ []\TU/Lato(0)/m/n/12 104
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 55
+ []\TU/Lato(0)/m/n/12 104
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 56
+ []\TU/Lato(0)/m/n/12 105
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 57
+ []\TU/Lato(0)/m/n/12 106
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 58
+ []\TU/Lato(0)/m/n/12 108
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 59
+ []\TU/Lato(0)/m/n/12 109
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 61
+ []\TU/Lato(0)/m/n/12 112
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 62
+ []\TU/Lato(0)/m/n/12 112
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 63
+ []\TU/Lato(0)/m/n/12 115
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 64
+ []\TU/Lato(0)/m/n/12 116
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 65
+ []\TU/Lato(0)/m/n/12 117
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 66
+ []\TU/Lato(0)/m/n/12 118
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 67
+ []\TU/Lato(0)/m/n/12 120
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 68
+ []\TU/Lato(0)/m/n/12 123
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 69
+ []\TU/Lato(0)/m/n/12 132
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 70
+ []\TU/Lato(0)/m/n/12 132
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 71
+ []\TU/Lato(0)/m/n/12 133
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 72
+ []\TU/Lato(0)/m/n/12 143
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 73
+ []\TU/Lato(0)/m/n/12 149
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 74
+ []\TU/Lato(0)/m/n/12 155
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 75
+ []\TU/Lato(0)/m/n/12 155
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 76
+ []\TU/Lato(0)/m/n/12 162
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 77
+ []\TU/Lato(0)/m/n/12 167
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 78
+ []\TU/Lato(0)/m/n/12 172
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 79
+ []\TU/Lato(0)/m/n/12 176
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 80
+ []\TU/Lato(0)/m/n/12 176
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 81
+ []\TU/Lato(0)/m/n/12 182
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 82
+ []\TU/Lato(0)/m/n/12 183
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 83
+ []\TU/Lato(0)/m/n/12 188
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 84
+ []\TU/Lato(0)/m/n/12 196
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 85
+ []\TU/Lato(0)/m/n/12 196
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 86
+ []\TU/Lato(0)/m/n/12 198
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 87
+ []\TU/Lato(0)/m/n/12 201
+ []
+
+[4]
+Overfull \hbox (2.27998pt too wide) detected at line 88
+ []\TU/Lato(0)/m/n/12 203
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 89
+ []\TU/Lato(0)/m/n/12 207
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 90
+ []\TU/Lato(0)/m/n/12 207
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 91
+ []\TU/Lato(0)/m/n/12 210
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 92
+ []\TU/Lato(0)/m/n/12 212
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 93
+ []\TU/Lato(0)/m/n/12 215
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 94
+ []\TU/Lato(0)/m/n/12 222
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 96
+ []\TU/Lato(0)/m/n/12 232
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 97
+ []\TU/Lato(0)/m/n/12 232
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 98
+ []\TU/Lato(0)/m/n/12 234
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 99
+ []\TU/Lato(0)/m/n/12 237
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 100
+ []\TU/Lato(0)/m/n/12 242
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 101
+ []\TU/Lato(0)/m/n/12 249
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 102
+ []\TU/Lato(0)/m/n/12 250
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 103
+ []\TU/Lato(0)/m/n/12 254
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 104
+ []\TU/Lato(0)/m/n/12 256
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 105
+ []\TU/Lato(0)/m/n/12 259
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 106
+ []\TU/Lato(0)/m/n/12 265
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 107
+ []\TU/Lato(0)/m/n/12 265
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 108
+ []\TU/Lato(0)/m/n/12 266
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 109
+ []\TU/Lato(0)/m/n/12 268
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 110
+ []\TU/Lato(0)/m/n/12 270
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 111
+ []\TU/Lato(0)/m/n/12 274
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 112
+ []\TU/Lato(0)/m/n/12 280
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 113
+ []\TU/Lato(0)/m/n/12 280
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 114
+ []\TU/Lato(0)/m/n/12 281
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 115
+ []\TU/Lato(0)/m/n/12 283
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 116
+ []\TU/Lato(0)/m/n/12 285
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 117
+ []\TU/Lato(0)/m/n/12 289
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 118
+ []\TU/Lato(0)/m/n/12 289
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 119
+ []\TU/Lato(0)/m/n/12 290
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 120
+ []\TU/Lato(0)/m/n/12 294
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 121
+ []\TU/Lato(0)/m/n/12 297
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 122
+ []\TU/Lato(0)/m/n/12 300
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 123
+ []\TU/Lato(0)/m/n/12 302
+ []
+
+
+Overfull \hbox (2.27998pt too wide) detected at line 124
+ []\TU/Lato(0)/m/n/12 309
+ []
+
+)
+\tf@toc=\write7
+
+\openout7 = MAT097-Algebra-Text.toc
+ [5] [6
+
+]
+Chapter 1.
+[1
+
+]
+\openout2 = ./sections/OrderofOperations.aux
+ (./Sections/OrderofOperations.tex
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 7.
+LaTeX Font Info:    Font shape `TU/Lato(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 7.
+
+Underfull \hbox (badness 1184) in paragraph at lines 40--40
+[]|\TU/Lato(0)/m/n/12 Lastly do ad-di-tions and sub-trac-tions. If
+ []
+
+[2
+
+
+]
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 93.
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 93.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 93.
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 93.
+ [3]
+LaTeX Font Info:    Font shape `TU/Lato(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 101.
+ [4] [5] [6] [7] [8]
+
+Package tasks Warning: The width of `item-indent' is too small on line 511.
+(tasks)                Please set it at least to 3.99957pt.
+
+[9
+
+] [10] [11] [12] [13] [14])
+\openout2 = ./sections/Fractions.aux
+ (./Sections/Fractions.tex [15
+
+
+
+
+] [16] [17] [18]
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 228.
+
+[19] [20]
+
+Package tasks Warning: The width of `item-indent' is too small on line 311.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 322.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 353.
+(tasks)                Please set it at least to 3.99957pt.
+
+[21
+
+] [22])
+\openout2 = ./sections/AlgebraicSubstitution.aux
+ (./Sections/AlgebraicSubstitution.tex [23
+
+
+
+
+] [24] [25]
+(./Sections/AlgebraicSubstitutionImages/CalculatorFormulaScreen.pdf_tex
+<Sections/AlgebraicSubstitutionImages/CalculatorFormulaScreen.pdf, id=1589, pag
+e=1, 204.765pt x 136.25906pt>
+File: Sections/AlgebraicSubstitutionImages/CalculatorFormulaScreen.pdf Graphic 
+file (type pdf)
+<use Sections/AlgebraicSubstitutionImages/CalculatorFormulaScreen.pdf, page 1>
+Package luatex.def Info: Sections/AlgebraicSubstitutionImages/CalculatorFormula
+Screen.pdf , page1 used on input line 56.
+(luatex.def)             Requested size: 204.765pt x 136.26703pt.
+)
+[26] (./Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx6.pdf_tex
+<Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx6.pdf, id=1596, page=1
+, 204.01218pt x 135.50626pt>
+File: Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx6.pdf Graphic fil
+e (type pdf)
+<use Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx6.pdf, page 1>
+Package luatex.def Info: Sections/AlgebraicSubstitutionImages/CalculatorFormula
+Ex6.pdf , page1 used on input line 56.
+(luatex.def)             Requested size: 204.01216pt x 135.5121pt.
+)
+(./Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAsk.pdf_tex
+<Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAsk.pdf, id=1597, pag
+e=1, 204.01218pt x 136.25906pt>
+File: Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAsk.pdf Graphic 
+file (type pdf)
+<use Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAsk.pdf, page 1>
+Package luatex.def Info: Sections/AlgebraicSubstitutionImages/CalculatorTableSe
+tupAsk.pdf , page1 used on input line 56.
+(luatex.def)             Requested size: 204.01216pt x 136.26494pt.
+)
+[27<./Sections/AlgebraicSubstitutionImages/CalculatorFormulaScreen.pdf><./Sectio
+ns/AlgebraicSubstitutionImages/CalculatorFormulaEx6.pdf>]
+(./Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAuto.pdf_tex
+<Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAuto.pdf, id=1608, pa
+ge=1, 204.01218pt x 136.25906pt>
+File: Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAuto.pdf Graphic
+ file (type pdf)
+<use Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAuto.pdf, page 1>
+
+Package luatex.def Info: Sections/AlgebraicSubstitutionImages/CalculatorTableSe
+tupAuto.pdf , page1 used on input line 56.
+(luatex.def)             Requested size: 204.01216pt x 136.26494pt.
+)
+(./Sections/AlgebraicSubstitutionImages/CalculatorTableEx6.pdf_tex
+<Sections/AlgebraicSubstitutionImages/CalculatorTableEx6.pdf, id=1609, page=1, 
+204.01218pt x 136.25906pt>
+File: Sections/AlgebraicSubstitutionImages/CalculatorTableEx6.pdf Graphic file 
+(type pdf)
+<use Sections/AlgebraicSubstitutionImages/CalculatorTableEx6.pdf, page 1>
+Package luatex.def Info: Sections/AlgebraicSubstitutionImages/CalculatorTableEx
+6.pdf , page1 used on input line 56.
+(luatex.def)             Requested size: 204.01216pt x 136.26494pt.
+) [28<./Sections/AlgebraicSubstitutionImages/CalculatorTableSetupAsk.pdf><./Sect
+ions/AlgebraicSubstitutionImages/CalculatorTableSetupAuto.pdf>] [29<./Sections/A
+lgebraicSubstitutionImages/CalculatorTableEx6.pdf>]
+(./Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx7.pdf_tex
+<Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx7.pdf, id=1636, page=1
+, 204.01218pt x 136.25906pt>
+File: Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx7.pdf Graphic fil
+e (type pdf)
+<use Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx7.pdf, page 1>
+Package luatex.def Info: Sections/AlgebraicSubstitutionImages/CalculatorFormula
+Ex7.pdf , page1 used on input line 56.
+(luatex.def)             Requested size: 204.01216pt x 136.26494pt.
+)
+(./Sections/AlgebraicSubstitutionImages/CalculatorTableSetupEx7.pdf_tex
+<Sections/AlgebraicSubstitutionImages/CalculatorTableSetupEx7.pdf, id=1637, pag
+e=1, 204.01218pt x 136.25906pt>
+File: Sections/AlgebraicSubstitutionImages/CalculatorTableSetupEx7.pdf Graphic 
+file (type pdf)
+<use Sections/AlgebraicSubstitutionImages/CalculatorTableSetupEx7.pdf, page 1>
+Package luatex.def Info: Sections/AlgebraicSubstitutionImages/CalculatorTableSe
+tupEx7.pdf , page1 used on input line 56.
+(luatex.def)             Requested size: 204.01216pt x 136.26494pt.
+)
+(./Sections/AlgebraicSubstitutionImages/CalculatorTableEx7.pdf_tex
+<Sections/AlgebraicSubstitutionImages/CalculatorTableEx7.pdf, id=1638, page=1, 
+204.01218pt x 136.25906pt>
+File: Sections/AlgebraicSubstitutionImages/CalculatorTableEx7.pdf Graphic file 
+(type pdf)
+<use Sections/AlgebraicSubstitutionImages/CalculatorTableEx7.pdf, page 1>
+Package luatex.def Info: Sections/AlgebraicSubstitutionImages/CalculatorTableEx
+7.pdf , page1 used on input line 56.
+(luatex.def)             Requested size: 204.01216pt x 136.26494pt.
+) [30<./Sections/AlgebraicSubstitutionImages/CalculatorFormulaEx7.pdf><./Section
+s/AlgebraicSubstitutionImages/CalculatorTableSetupEx7.pdf><./Sections/AlgebraicS
+ubstitutionImages/CalculatorTableEx7.pdf>] [31]
+
+Package tasks Warning: The width of `item-indent' is too small on line 345.
+(tasks)                Please set it at least to 3.99957pt.
+
+[32
+
+] [33] [34])
+\openout2 = ./sections/ArithmeticReviewQuestions.aux
+ (./Sections/ArithmeticReviewQuestions.tex
+
+Package tasks Warning: The width of `item-indent' is too small on line 47.
+(tasks)                Please set it at least to 3.99957pt.
+
+[35
+
+
+
+
+] [36] [37]) [38
+
+
+
+
+]
+Chapter 2.
+[39]
+\openout2 = ./sections/AlgebraicExpressions.aux
+ (./Sections/AlgebraicExpressions.tex [40
+
+
+] [41] [42] [43] [44] [45]
+
+Package tasks Warning: The width of `item-indent' is too small on line 268.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 311.
+(tasks)                Please set it at least to 3.99957pt.
+
+[46
+
+]
+
+Package tasks Warning: The width of `item-indent' is too small on line 340.
+(tasks)                Please set it at least to 3.99957pt.
+
+[47] [48])
+\openout2 = ./sections/Distribution.aux
+ (./Sections/Distribution.tex [49
+
+
+
+
+] [50] [51]
+
+Package tasks Warning: The width of `item-indent' is too small on line 177.
+(tasks)                Please set it at least to 3.99957pt.
+
+[52
+
+] [53])
+\openout2 = ./sections/AlgebraicExpressionsExponents.aux
+ (./Sections/AlgebraicExpressionsExponents.tex
+Overfull \hbox (2.30032pt too wide) in paragraph at lines 38--38
+[]\TU/Lato(0)/m/n/12 Us-ing the com-mu-ta-tive and as-so-cia-tive prop-er-ties 
+of mul-ti-pli-ca-tion, we can rewrite
+ []
+
+[54
+
+
+
+
+] [55] [56] [57] [58] [59]
+
+Package tasks Warning: The width of `item-indent' is too small on line 330.
+(tasks)                Please set it at least to 3.99957pt.
+
+[60
+
+] [61])
+\openout2 = ./sections/NegativeExponents.aux
+ (./Sections/NegativeExponents.tex [62
+
+
+
+
+] [63] [64]
+
+Package tasks Warning: The width of `item-indent' is too small on line 132.
+(tasks)                Please set it at least to 3.99957pt.
+
+[65
+
+])
+\openout2 = ./sections/CommonFactor.aux
+ (./Sections/CommonFactor.tex [66
+
+
+
+
+] [67] [68] [69]
+
+Package tasks Warning: The width of `item-indent' is too small on line 164.
+(tasks)                Please set it at least to 3.99957pt.
+
+[70
+
+])
+\openout2 = ./sections/SecondDegreeFactor.aux
+ (./Sections/SecondDegreeFactor.tex [71
+
+
+
+
+] [72] [73]
+
+Package tasks Warning: The width of `item-indent' is too small on line 177.
+(tasks)                Please set it at least to 3.99957pt.
+
+[74
+
+])
+\openout2 = ./sections/AlgebraReviewQuestions.aux
+ (./Sections/AlgebraReviewQuestions.tex
+
+Package tasks Warning: The width of `item-indent' is too small on line 24.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 51.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 62.
+(tasks)                Please set it at least to 3.99957pt.
+
+[75
+
+
+
+
+]
+
+Package tasks Warning: The width of `item-indent' is too small on line 82.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 129.
+(tasks)                Please set it at least to 3.99957pt.
+
+[76]
+
+Package tasks Warning: The width of `item-indent' is too small on line 164.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 183.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 204.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 257.
+(tasks)                Please set it at least to 3.99957pt.
+
+[77] [78])
+Chapter 3.
+[79
+
+
+
+
+]
+\openout2 = ./sections/FirstDegreeEquations.aux
+ (./Sections/FirstDegreeEquations.tex [80
+
+
+]
+(./Sections/FirstDegreeEquationsImages/TextPage.pdf_tex
+<Sections/FirstDegreeEquationsImages/TextPage.pdf, id=3147, page=1, 180.675pt x
+ 286.06873pt>
+File: Sections/FirstDegreeEquationsImages/TextPage.pdf Graphic file (type pdf)
+<use Sections/FirstDegreeEquationsImages/TextPage.pdf, page 1>
+Package luatex.def Info: Sections/FirstDegreeEquationsImages/TextPage.pdf , pag
+e1 used on input line 56.
+(luatex.def)             Requested size: 180.67499pt x 286.07239pt.
+)
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 80.
+LaTeX Font Info:    Font shape `TU/Lato(0)/m/it' will be
+(Font)              scaled to size 6.0pt on input line 80.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[][]\TU/Lato(0)/m/n/12 : []|The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/it/12 Kitāb al-mukhta$[]$ar
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 80--80
+\TU/Lato(0)/m/it/12 fī $[]$isāb al-jabr wa-l-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/it/12 muqābala\TU/Lato(0)/m/n/12 '' writ-ten
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 in the early-mid
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 800’s C.E. by the
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 Per-sian math-e-mati-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 cian Abū Ab-dal-lāh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 Mu$[]$am-mad ibn
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 Mūsā al-Khwārizmī.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 con-sid-ered to be
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 to-ward mod-ern
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 al-ge-bra (the word
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 ``al-ge-bra'' ac-tu-ally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 comes from the
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 ti-tle.) The book’s
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 Ara-bic ti-tle trans-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 ’The Com-pen-dious
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 80--80
+\TU/Lato(0)/m/n/12 by Com-ple-tion and
+ []
+
+[81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92]
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
+
+ []
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 563.
+(tasks)                Please set it at least to 3.99957pt.
+
+[93
+
+] [94]
+
+Package tasks Warning: The width of `item-indent' is too small on line 607.
+(tasks)                Please set it at least to 3.99957pt.
+
+[95]
+
+Package tasks Warning: The width of `item-indent' is too small on line 657.
+(tasks)                Please set it at least to 3.99957pt.
+
+[96] [97] [98])
+\openout2 = ./sections/SolveSecondDegree.aux
+ (./Sections/SolveSecondDegree.tex [99
+
+
+
+
+] [100] [101] [102]
+
+Package tasks Warning: The width of `item-indent' is too small on line 186.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 209.
+(tasks)                Please set it at least to 3.99957pt.
+
+[103
+
+])
+\openout2 = ./sections/SolveHigherOrderEquations.aux
+ (./Sections/SolveHigherOrderEquations.tex [104
+
+
+
+
+] [105] [106] [107]
+
+Package tasks Warning: The width of `item-indent' is too small on line 190.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 205.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 226.
+(tasks)                Please set it at least to 3.99957pt.
+
+[108
+
+])
+\openout2 = ./sections/SolvingEquationsReviewQuestions.aux
+ (./Sections/SolvingEquationsReviewQuestions.tex
+
+Package tasks Warning: The width of `item-indent' is too small on line 55.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 65.
+(tasks)                Please set it at least to 3.99957pt.
+
+[109
+
+
+
+
+]
+
+Package tasks Warning: The width of `item-indent' is too small on line 82.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 103.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 120.
+(tasks)                Please set it at least to 3.99957pt.
+
+[110])
+Chapter 4.
+[111
+
+
+
+
+]
+\openout2 = ./sections/Functions.aux
+ (./Sections/Functions.tex
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+[112
+
+
+] [113]
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+
+ []
+
+[116]
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--222
+
+ []
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+[118]
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+[119]
+Underfull \hbox (badness 10000) in paragraph at lines 309--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+
+ []
+
+[120]
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 354--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 366--366
+
+ []
+
+[121]
+Underfull \hbox (badness 10000) in paragraph at lines 385--385
+
+ []
+
+[122] [123
+
+] [124] [125] [126] [127] [128] [129] [130] [131])
+\openout2 = ./sections/FunctionsandGraphs.aux
+
+(./Sections/FunctionsandGraphs.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Overfull \hbox (39.57304pt too wide) in paragraph at lines 55--55
+[]\TU/Lato(0)/m/n/12 Fol-low-ing the pat-tern of $\OT1/lmr/m/n/12 ([]\OML/lmm/m
+/it/12 ; []\OT1/lmr/m/n/12 )$ \TU/Lato(0)/m/n/12 we would write $\OMS/lmsy/m/n/
+12 f\OT1/lmr/m/n/12 (4\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 0)\OML/lmm/m/it/12 ; \
+OT1/lmr/m/n/12 (7\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 0)\OML/lmm/m/it/12 ; \OT1/l
+mr/m/n/12 (3\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 2)\OML/lmm/m/it/12 ; \OT1/lmr/m/
+n/12 (9\OML/lmm/m/it/12 ; \OMS/lmsy/m/n/12 ^^@\OT1/lmr/m/n/12 4)\OML/lmm/m/it/1
+2 ; \OT1/lmr/m/n/12 (1\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 6)\OMS/lmsy/m/n/12 g$\
+TU/Lato(0)/m/n/12 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[132
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[133]
+Overfull \hbox (6.81296pt too wide) in paragraph at lines 116--117
+[]\TU/Lato(0)/m/n/12 Well, we un-der-stand it to be at the point $[]$ of the way
+ be-tween 4 and 5. Where is $\OMS/lmsy/m/n/12 ^^@\OT1/lmr/m/n/12 3\OML/lmm/m/it
+/12 ; \OT1/lmr/m/n/12 000\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 000$\TU/Lato(0)/m/n
+/12 ? 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure01.png, id=4130, 626.34pt x 54.2025pt>
+
+File: Sections/FunctionsandGraphsImages/Figure01.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure01.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure01.png  used o
+n input line 122.
+(luatex.def)             Requested size: 469.47049pt x 40.6286pt.
+<Sections/FunctionsandGraphsImages/Figure02.png, id=4131, 212.59425pt x 258.967
+5pt>
+File: Sections/FunctionsandGraphsImages/Figure02.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure02.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure02.png  used o
+n input line 128.
+(luatex.def)             Requested size: 212.59372pt x 258.96684pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure03.png, id=4133, 248.72925pt x 166.221
+pt>
+File: Sections/FunctionsandGraphsImages/Figure03.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure03.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure03.png  used o
+n input line 139.
+(luatex.def)             Requested size: 248.72864pt x 166.22057pt.
+[134<./Sections/FunctionsandGraphsImages/Figure01.png><./Sections/FunctionsandGr
+aphsImages/Figure02.png>]
+<Sections/FunctionsandGraphsImages/Figure04.png, id=4143, 251.7405pt x 166.8232
+6pt>
+File: Sections/FunctionsandGraphsImages/Figure04.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure04.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure04.png  used o
+n input line 148.
+(luatex.def)             Requested size: 251.73987pt x 166.82285pt.
+<Sections/FunctionsandGraphsImages/Figure05.png, id=4144, 248.72925pt x 166.823
+26pt>
+File: Sections/FunctionsandGraphsImages/Figure05.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure05.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure05.png  used o
+n input line 157.
+(luatex.def)             Requested size: 248.72864pt x 166.82285pt.
+ [135<./Sections/FunctionsandGraphsImages/Figure03.png><./Sections/FunctionsandG
+raphsImages/Figure04.png>]
+<Sections/FunctionsandGraphsImages/Figure06.png, id=4155, 251.13824pt x 166.823
+26pt>
+File: Sections/FunctionsandGraphsImages/Figure06.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure06.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure06.png  used o
+n input line 166.
+(luatex.def)             Requested size: 251.13763pt x 166.82285pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure07.png, id=4156, 251.7405pt x 166.221p
+t>
+File: Sections/FunctionsandGraphsImages/Figure07.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure07.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure07.png  used o
+n input line 188.
+(luatex.def)             Requested size: 251.73987pt x 166.22057pt.
+[136<./Sections/FunctionsandGraphsImages/Figure05.png><./Sections/FunctionsandGr
+aphsImages/Figure06.png>]
+<Sections/FunctionsandGraphsImages/Figure08.png, id=4165, 250.536pt x 163.812pt
+>
+File: Sections/FunctionsandGraphsImages/Figure08.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure08.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure08.png  used o
+n input line 197.
+(luatex.def)             Requested size: 250.53537pt x 163.81158pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure09.png, id=4166, 240.9pt x 157.7895pt>
+
+File: Sections/FunctionsandGraphsImages/Figure09.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure09.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure09.png  used o
+n input line 213.
+(luatex.def)             Requested size: 240.8994pt x 157.78911pt.
+[137<./Sections/FunctionsandGraphsImages/Figure07.png><./Sections/FunctionsandGr
+aphsImages/Figure08.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure10.png, id=4175, 199.947pt x 137.313pt
+>
+File: Sections/FunctionsandGraphsImages/Figure10.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure10.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure10.png  used o
+n input line 230.
+(luatex.def)             Requested size: 199.9465pt x 137.31265pt.
+<Sections/FunctionsandGraphsImages/Figure11.png, id=4176, 193.9245pt x 129.4837
+5pt>
+File: Sections/FunctionsandGraphsImages/Figure11.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure11.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure11.png  used o
+n input line 241.
+(luatex.def)             Requested size: 193.92401pt x 129.48341pt.
+[138<./Sections/FunctionsandGraphsImages/Figure09.png><./Sections/FunctionsandGr
+aphsImages/Figure10.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure12.png, id=4187, 266.79675pt x 175.254
+75pt>
+File: Sections/FunctionsandGraphsImages/Figure12.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure12.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure12.png  used o
+n input line 252.
+(luatex.def)             Requested size: 266.79608pt x 175.2543pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+[139<./Sections/FunctionsandGraphsImages/Figure11.png><./Sections/FunctionsandGr
+aphsImages/Figure12.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure13.png, id=4196, 164.41425pt x 112.018
+5pt>
+File: Sections/FunctionsandGraphsImages/Figure13.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure13.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure13.png  used o
+n input line 302.
+(luatex.def)             Requested size: 164.41383pt x 112.0182pt.
+<Sections/FunctionsandGraphsImages/Figure14.png, id=4197, 157.18726pt x 105.996
+pt>
+File: Sections/FunctionsandGraphsImages/Figure14.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure14.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure14.png  used o
+n input line 302.
+(luatex.def)             Requested size: 157.18686pt x 105.99573pt.
+[140<./Sections/FunctionsandGraphsImages/Figure13.png>]
+<Sections/FunctionsandGraphsImages/Figure15.png, id=4204, 178.86826pt x 118.643
+25pt>
+File: Sections/FunctionsandGraphsImages/Figure15.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure15.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure15.png  used o
+n input line 302.
+(luatex.def)             Requested size: 178.86781pt x 118.64294pt.
+<Sections/FunctionsandGraphsImages/Figure16.png, id=4205, 416.757pt x 249.93375
+pt>
+File: Sections/FunctionsandGraphsImages/Figure16.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure16.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure16.png  used o
+n input line 308.
+(luatex.def)             Requested size: 416.75598pt x 249.93314pt.
+<Sections/FunctionsandGraphsImages/Figure17.png, id=4206, 251.7405pt x 163.812p
+t>
+File: Sections/FunctionsandGraphsImages/Figure17.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure17.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure17.png  used o
+n input line 317.
+(luatex.def)             Requested size: 251.73987pt x 163.81158pt.
+ [141<./Sections/FunctionsandGraphsImages/Figure14.png><./Sections/FunctionsandG
+raphsImages/Figure15.png><./Sections/FunctionsandGraphsImages/Figure16.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure18.png, id=4214, 250.536pt x 163.812pt
+>
+File: Sections/FunctionsandGraphsImages/Figure18.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure18.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure18.png  used o
+n input line 330.
+(luatex.def)             Requested size: 250.53537pt x 163.81158pt.
+[142<./Sections/FunctionsandGraphsImages/Figure17.png><./Sections/FunctionsandGr
+aphsImages/Figure18.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure19.png, id=4223, 206.57175pt x 140.324
+25pt>
+File: Sections/FunctionsandGraphsImages/Figure19.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure19.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure19.png  used o
+n input line 366.
+(luatex.def)             Requested size: 206.57123pt x 140.3239pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+[143<./Sections/FunctionsandGraphsImages/Figure19.png>]
+<Sections/FunctionsandGraphsImages/Figure20.png, id=4229, 208.3785pt x 139.722p
+t>
+File: Sections/FunctionsandGraphsImages/Figure20.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure20.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure20.png  used o
+n input line 377.
+(luatex.def)             Requested size: 208.37798pt x 139.72165pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--384
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure21.png, id=4230, 211.992pt x 138.5175p
+t>
+File: Sections/FunctionsandGraphsImages/Figure21.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure21.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure21.png  used o
+n input line 390.
+(luatex.def)             Requested size: 211.99147pt x 138.51715pt.
+<Sections/FunctionsandGraphsImages/Figure22.png, id=4231, 220.4235pt x 145.7445
+pt>
+File: Sections/FunctionsandGraphsImages/Figure22.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure22.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure22.png  used o
+n input line 399.
+(luatex.def)             Requested size: 220.42294pt x 145.74414pt.
+[144<./Sections/FunctionsandGraphsImages/Figure20.png><./Sections/FunctionsandGr
+aphsImages/Figure21.png>]
+<Sections/FunctionsandGraphsImages/Figure23.png, id=4238, 216.81pt x 136.71075p
+t>
+File: Sections/FunctionsandGraphsImages/Figure23.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure23.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure23.png  used o
+n input line 408.
+(luatex.def)             Requested size: 216.80946pt x 136.7104pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 414--415
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure24.png, id=4239, 248.72925pt x 166.221
+pt>
+File: Sections/FunctionsandGraphsImages/Figure24.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure24.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure24.png  used o
+n input line 423.
+(luatex.def)             Requested size: 248.72864pt x 166.22057pt.
+[145<./Sections/FunctionsandGraphsImages/Figure22.png><./Sections/FunctionsandGr
+aphsImages/Figure23.png>]
+<Sections/FunctionsandGraphsImages/Figure25.png, id=4247, 205.9695pt x 104.1892
+5pt>
+File: Sections/FunctionsandGraphsImages/Figure25.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure25.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure25.png  used o
+n input line 431.
+(luatex.def)             Requested size: 205.96898pt x 104.18898pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
+
+ []
+
+<Sections/FunctionsandGraphsImages/Figure26.png, id=4248, 209.583pt x 138.5175p
+t>
+File: Sections/FunctionsandGraphsImages/Figure26.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure26.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure26.png  used o
+n input line 442.
+(luatex.def)             Requested size: 209.58247pt x 138.51715pt.
+<Sections/FunctionsandGraphsImages/Figure27.png, id=4249, 248.127pt x 165.61874
+pt>
+File: Sections/FunctionsandGraphsImages/Figure27.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure27.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure27.png  used o
+n input line 451.
+(luatex.def)             Requested size: 248.12637pt x 165.61833pt.
+[146<./Sections/FunctionsandGraphsImages/Figure24.png><./Sections/FunctionsandGr
+aphsImages/Figure25.png><./Sections/FunctionsandGraphsImages/Figure26.png>]
+<Sections/FunctionsandGraphsImages/Figure28.png, id=4257, 245.718pt x 166.221pt
+>
+File: Sections/FunctionsandGraphsImages/Figure28.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure28.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure28.png  used o
+n input line 460.
+(luatex.def)             Requested size: 245.71739pt x 166.22057pt.
+<Sections/FunctionsandGraphsImages/Figure29.png, id=4258, 202.95825pt x 136.108
+5pt>
+File: Sections/FunctionsandGraphsImages/Figure29.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure29.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure29.png  used o
+n input line 494.
+(luatex.def)             Requested size: 202.95775pt x 136.10815pt.
+<Sections/FunctionsandGraphsImages/Figure30.png, id=4259, 245.718pt x 166.221pt
+>
+File: Sections/FunctionsandGraphsImages/Figure30.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure30.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure30.png  used o
+n input line 494.
+(luatex.def)             Requested size: 245.71739pt x 166.22057pt.
+
+[147<./Sections/FunctionsandGraphsImages/Figure27.png><./Sections/FunctionsandGr
+aphsImages/Figure28.png><./Sections/FunctionsandGraphsImages/Figure29.png>]
+<Sections/FunctionsandGraphsImages/Figure31.png, id=4268, 245.11575pt x 166.823
+26pt>
+File: Sections/FunctionsandGraphsImages/Figure31.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Figure31.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Figure31.png  used o
+n input line 494.
+(luatex.def)             Requested size: 245.11514pt x 166.82285pt.
+
+[148<./Sections/FunctionsandGraphsImages/Figure30.png><./Sections/FunctionsandGr
+aphsImages/Figure31.png>] [149
+
+] [150]
+<Sections/FunctionsandGraphsImages/Question23a.png, id=4330, 163.812pt x 110.21
+175pt>
+File: Sections/FunctionsandGraphsImages/Question23a.png Graphic file (type png)
+
+<use Sections/FunctionsandGraphsImages/Question23a.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Question23a.png  use
+d on input line 704.
+(luatex.def)             Requested size: 98.28795pt x 66.12755pt.
+<Sections/FunctionsandGraphsImages/Question23b.png, id=4331, 163.812pt x 109.00
+725pt>
+File: Sections/FunctionsandGraphsImages/Question23b.png Graphic file (type png)
+
+<use Sections/FunctionsandGraphsImages/Question23b.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Question23b.png  use
+d on input line 704.
+(luatex.def)             Requested size: 98.28795pt x 65.40485pt.
+<Sections/FunctionsandGraphsImages/Question23c.png, id=4332, 165.61874pt x 112.
+62074pt>
+File: Sections/FunctionsandGraphsImages/Question23c.png Graphic file (type png)
+
+<use Sections/FunctionsandGraphsImages/Question23c.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Question23c.png  use
+d on input line 704.
+(luatex.def)             Requested size: 99.37201pt x 67.57295pt.
+<Sections/FunctionsandGraphsImages/Question24a.png, id=4333, 163.812pt x 109.60
+95pt>
+File: Sections/FunctionsandGraphsImages/Question24a.png Graphic file (type png)
+
+<use Sections/FunctionsandGraphsImages/Question24a.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Question24a.png  use
+d on input line 716.
+(luatex.def)             Requested size: 98.28795pt x 65.76619pt.
+<Sections/FunctionsandGraphsImages/Question24b.png, id=4334, 162.6075pt x 106.5
+9825pt>
+File: Sections/FunctionsandGraphsImages/Question24b.png Graphic file (type png)
+
+<use Sections/FunctionsandGraphsImages/Question24b.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Question24b.png  use
+d on input line 716.
+(luatex.def)             Requested size: 97.56525pt x 63.95943pt.
+<Sections/FunctionsandGraphsImages/Question24c.png, id=4335, 167.4255pt x 106.5
+9825pt>
+File: Sections/FunctionsandGraphsImages/Question24c.png Graphic file (type png)
+
+<use Sections/FunctionsandGraphsImages/Question24c.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Question24c.png  use
+d on input line 716.
+(luatex.def)             Requested size: 100.45605pt x 63.95943pt.
+ [151<./Sections/FunctionsandGraphsImages/Question23a.png><./Sections/Functionsa
+ndGraphsImages/Question23b.png><./Sections/FunctionsandGraphsImages/Question23c.
+png>] [152<./Sections/FunctionsandGraphsImages/Question24a.png><./Sections/Funct
+ionsandGraphsImages/Question24b.png><./Sections/FunctionsandGraphsImages/Questio
+n24c.png>] [153] [154])
+\openout2 = ./sections/SolvingEquationsGraphically.aux
+
+(./Sections/SolvingEquationsGraphically.tex
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure01.png, id=4426, 249.93375pt x 166.
+82326pt>
+File: Sections/SolvingEquationsGraphically/Figure01.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure01.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure01.png  use
+d on input line 35.
+(luatex.def)             Requested size: 249.93314pt x 166.82285pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[155
+
+
+
+
+<./Sections/SolvingEquationsGraphically/Figure01.png>]
+<Sections/SolvingEquationsGraphically/Figure02.png, id=4434, 249.93375pt x 163.
+812pt>
+File: Sections/SolvingEquationsGraphically/Figure02.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure02.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure02.png  use
+d on input line 48.
+(luatex.def)             Requested size: 249.93314pt x 163.81158pt.
+<Sections/SolvingEquationsGraphically/Figure03.png, id=4435, 205.36725pt x 136.
+71075pt>
+File: Sections/SolvingEquationsGraphically/Figure03.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure03.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure03.png  use
+d on input line 57.
+(luatex.def)             Requested size: 205.36674pt x 136.7104pt.
+<Sections/SolvingEquationsGraphically/Figure04.png, id=4436, 250.536pt x 166.82
+326pt>
+File: Sections/SolvingEquationsGraphically/Figure04.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure04.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure04.png  use
+d on input line 66.
+(luatex.def)             Requested size: 250.53537pt x 166.82285pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+[156<./Sections/SolvingEquationsGraphically/Figure02.png><./Sections/SolvingEqua
+tionsGraphically/Figure03.png><./Sections/SolvingEquationsGraphically/Figure04.p
+ng>]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure05.png, id=4448, 210.7875pt x 139.7
+22pt>
+File: Sections/SolvingEquationsGraphically/Figure05.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure05.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure05.png  use
+d on input line 78.
+(luatex.def)             Requested size: 210.78699pt x 139.72165pt.
+<Sections/SolvingEquationsGraphically/Figure06.png, id=4449, 249.93375pt x 166.
+82326pt>
+File: Sections/SolvingEquationsGraphically/Figure06.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure06.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure06.png  use
+d on input line 87.
+(luatex.def)             Requested size: 249.93314pt x 166.82285pt.
+<Sections/SolvingEquationsGraphically/Figure07.png, id=4450, 248.127pt x 163.81
+2pt>
+File: Sections/SolvingEquationsGraphically/Figure07.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure07.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure07.png  use
+d on input line 97.
+(luatex.def)             Requested size: 248.12637pt x 163.81158pt.
+[157<./Sections/SolvingEquationsGraphically/Figure05.png><./Sections/SolvingEqua
+tionsGraphically/Figure06.png>]
+<Sections/SolvingEquationsGraphically/Figure08.png, id=4459, 249.93375pt x 166.
+221pt>
+File: Sections/SolvingEquationsGraphically/Figure08.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure08.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure08.png  use
+d on input line 106.
+(luatex.def)             Requested size: 249.93314pt x 166.22057pt.
+<Sections/SolvingEquationsGraphically/Figure09.png, id=4460, 248.127pt x 166.22
+1pt>
+File: Sections/SolvingEquationsGraphically/Figure09.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure09.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure09.png  use
+d on input line 115.
+(luatex.def)             Requested size: 248.12637pt x 166.22057pt.
+ [158<./Sections/SolvingEquationsGraphically/Figure07.png><./Sections/SolvingEqu
+ationsGraphically/Figure08.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure10.png, id=4469, 202.95825pt x 139.
+11975pt>
+File: Sections/SolvingEquationsGraphically/Figure10.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure10.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure10.png  use
+d on input line 159.
+(luatex.def)             Requested size: 202.95775pt x 139.1194pt.
+[159<./Sections/SolvingEquationsGraphically/Figure09.png><./Sections/SolvingEqua
+tionsGraphically/Figure10.png>]
+<Sections/SolvingEquationsGraphically/Figure11.png, id=4479, 248.127pt x 167.42
+55pt>
+File: Sections/SolvingEquationsGraphically/Figure11.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure11.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure11.png  use
+d on input line 159.
+(luatex.def)             Requested size: 248.12637pt x 167.42508pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure12.png, id=4480, 205.9695pt x 147.5
+5125pt>
+File: Sections/SolvingEquationsGraphically/Figure12.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure12.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure12.png  use
+d on input line 206.
+(luatex.def)             Requested size: 205.96898pt x 147.55087pt.
+[160<./Sections/SolvingEquationsGraphically/Figure11.png>]
+<Sections/SolvingEquationsGraphically/Figure13.png, id=4492, 248.72925pt x 165.
+61874pt>
+File: Sections/SolvingEquationsGraphically/Figure13.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure13.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure13.png  use
+d on input line 206.
+(luatex.def)             Requested size: 248.72864pt x 165.61833pt.
+<Sections/SolvingEquationsGraphically/Figure14.png, id=4493, 245.11575pt x 166.
+82326pt>
+File: Sections/SolvingEquationsGraphically/Figure14.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure14.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure14.png  use
+d on input line 206.
+(luatex.def)             Requested size: 245.11514pt x 166.82285pt.
+ [161<./Sections/SolvingEquationsGraphically/Figure12.png><./Sections/SolvingEqu
+ationsGraphically/Figure13.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 206--206
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure15.png, id=4502, 248.72925pt x 167.
+4255pt>
+File: Sections/SolvingEquationsGraphically/Figure15.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure15.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure15.png  use
+d on input line 206.
+(luatex.def)             Requested size: 248.72864pt x 167.42508pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure16.png, id=4503, 246.9225pt x 160.8
+0075pt>
+File: Sections/SolvingEquationsGraphically/Figure16.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure16.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure16.png  use
+d on input line 268.
+(luatex.def)             Requested size: 246.92188pt x 160.80034pt.
+[162<./Sections/SolvingEquationsGraphically/Figure14.png><./Sections/SolvingEqua
+tionsGraphically/Figure15.png>]
+<Sections/SolvingEquationsGraphically/Figure17.png, id=4513, 209.583pt x 128.27
+925pt>
+File: Sections/SolvingEquationsGraphically/Figure17.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure17.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure17.png  use
+d on input line 268.
+(luatex.def)             Requested size: 209.58247pt x 128.27893pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure18.png, id=4514, 214.401pt x 142.73
+325pt>
+File: Sections/SolvingEquationsGraphically/Figure18.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure18.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure18.png  use
+d on input line 268.
+(luatex.def)             Requested size: 214.40047pt x 142.73288pt.
+[163<./Sections/SolvingEquationsGraphically/Figure16.png><./Sections/SolvingEqua
+tionsGraphically/Figure17.png>]
+<Sections/SolvingEquationsGraphically/Figure19.png, id=4523, 244.5135pt x 166.8
+2326pt>
+File: Sections/SolvingEquationsGraphically/Figure19.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure19.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure19.png  use
+d on input line 268.
+(luatex.def)             Requested size: 244.5129pt x 166.82285pt.
+<Sections/SolvingEquationsGraphically/Figure20.png, id=4524, 245.11575pt x 166.
+82326pt>
+File: Sections/SolvingEquationsGraphically/Figure20.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure20.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure20.png  use
+d on input line 268.
+(luatex.def)             Requested size: 245.11514pt x 166.82285pt.
+ [164<./Sections/SolvingEquationsGraphically/Figure18.png><./Sections/SolvingEqu
+ationsGraphically/Figure19.png><./Sections/SolvingEquationsGraphically/Figure20.
+png>]
+<Sections/SolvingEquationsGraphically/Figure21.png, id=4535, 208.3785pt x 136.7
+1075pt>
+File: Sections/SolvingEquationsGraphically/Figure21.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure21.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure21.png  use
+d on input line 313.
+(luatex.def)             Requested size: 208.37798pt x 136.7104pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--313
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure22.png, id=4536, 208.98074pt x 139.
+722pt>
+File: Sections/SolvingEquationsGraphically/Figure22.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure22.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure22.png  use
+d on input line 313.
+(luatex.def)             Requested size: 208.98022pt x 139.72165pt.
+<Sections/SolvingEquationsGraphically/Figure23.png, id=4537, 249.93375pt x 164.
+41425pt>
+File: Sections/SolvingEquationsGraphically/Figure23.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure23.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure23.png  use
+d on input line 313.
+(luatex.def)             Requested size: 249.93314pt x 164.41383pt.
+[165<./Sections/SolvingEquationsGraphically/Figure21.png><./Sections/SolvingEqua
+tionsGraphically/Figure22.png>]
+<Sections/SolvingEquationsGraphically/Figure24.png, id=4548, 245.11575pt x 166.
+221pt>
+File: Sections/SolvingEquationsGraphically/Figure24.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure24.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure24.png  use
+d on input line 313.
+(luatex.def)             Requested size: 245.11514pt x 166.22057pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--318
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 319--321
+
+ []
+
+[166<./Sections/SolvingEquationsGraphically/Figure23.png><./Sections/SolvingEqua
+tionsGraphically/Figure24.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 322--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 345--346
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--355
+
+ []
+
+[167]
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--364
+
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 373--373
+[]|$\OMS/lmsy/m/n/12 $ \TU/Lato(0)/m/n/12 The num-bers are gen-er-ally whole nu
+m-
+ []
+
+
+Overfull \hbox (25.19998pt too wide) in paragraph at lines 368--379
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+
+ []
+
+[168]
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure25.png, id=4578, 249.93375pt x 166.
+82326pt>
+File: Sections/SolvingEquationsGraphically/Figure25.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure25.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure25.png  use
+d on input line 425.
+(luatex.def)             Requested size: 249.93314pt x 166.82285pt.
+[169]
+Underfull \hbox (badness 10000) in paragraph at lines 429--430
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+
+ []
+
+<Sections/SolvingEquationsGraphically/Figure26.png, id=4586, 247.52475pt x 165.
+61874pt>
+File: Sections/SolvingEquationsGraphically/Figure26.png Graphic file (type png)
+
+<use Sections/SolvingEquationsGraphically/Figure26.png>
+Package luatex.def Info: Sections/SolvingEquationsGraphically/Figure26.png  use
+d on input line 458.
+(luatex.def)             Requested size: 247.52414pt x 165.61833pt.
+[170<./Sections/SolvingEquationsGraphically/Figure25.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--475
+
+ []
+
+[171<./Sections/SolvingEquationsGraphically/Figure26.png>] [172
+
+] [173] [174]
+[175])
+\openout2 = ./sections/FunctionsandModels.aux
+ (./Sections/FunctionsandModels.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+[176
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+
+ []
+
+[177]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+[178]
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+[179]
+<Sections/FunctionsasModelsImages/Figure01.png, id=4721, 206.57175pt x 139.1197
+5pt>
+File: Sections/FunctionsasModelsImages/Figure01.png Graphic file (type png)
+<use Sections/FunctionsasModelsImages/Figure01.png>
+Package luatex.def Info: Sections/FunctionsasModelsImages/Figure01.png  used on
+ input line 187.
+(luatex.def)             Requested size: 206.57123pt x 139.1194pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+
+ []
+
+<Sections/FunctionsasModelsImages/Figure02.png, id=4722, 220.4235pt x 146.34676
+pt>
+File: Sections/FunctionsasModelsImages/Figure02.png Graphic file (type png)
+<use Sections/FunctionsasModelsImages/Figure02.png>
+Package luatex.def Info: Sections/FunctionsasModelsImages/Figure02.png  used on
+ input line 187.
+(luatex.def)             Requested size: 176.33902pt x 117.07755pt.
+[180<./Sections/FunctionsasModelsImages/Figure01.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+
+ []
+
+<Sections/FunctionsasModelsImages/Figure03.png, id=4730, 214.401pt x 139.722pt>
+
+File: Sections/FunctionsasModelsImages/Figure03.png Graphic file (type png)
+<use Sections/FunctionsasModelsImages/Figure03.png>
+Package luatex.def Info: Sections/FunctionsasModelsImages/Figure03.png  used on
+ input line 187.
+(luatex.def)             Requested size: 214.40047pt x 139.72165pt.
+<Sections/FunctionsasModelsImages/Figure04.png, id=4731, 230.0595pt x 154.176pt
+>
+File: Sections/FunctionsasModelsImages/Figure04.png Graphic file (type png)
+<use Sections/FunctionsasModelsImages/Figure04.png>
+Package luatex.def Info: Sections/FunctionsasModelsImages/Figure04.png  used on
+ input line 187.
+(luatex.def)             Requested size: 184.04784pt x 123.34094pt.
+[181<./Sections/FunctionsasModelsImages/Figure02.png><./Sections/FunctionsasMode
+lsImages/Figure03.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--206
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+[182<./Sections/FunctionsasModelsImages/Figure04.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 232--232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+[183]
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--265
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+[184]
+Underfull \hbox (badness 10000) in paragraph at lines 284--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+
+ []
+
+[185]
+Underfull \hbox (badness 10000) in paragraph at lines 307--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+
+ []
+
+[186] [187] [188
+
+] [189] [190] [191] [192]
+Overfull \hbox (5.5975pt too wide) in paragraph at lines 578--578
+\TU/Lato(0)/m/n/12 ra-di-a-tion ex-po-sure (in mil-lisiev-erts) and the life-tim
+e risk (ex-pressed as a per-cent change)
+ []
+
+[193] [194] [195])
+\openout2 = ./sections/ImplicitFunctions.aux
+ (./Sections/ImplicitFunctions.tex
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+
+ []
+
+[196
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 42--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+
+ []
+
+[197]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+[198]
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
+ []
+
+[199]
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
+
+ []
+
+[200]
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--198
+
+ []
+
+[201] [202] [203
+
+] [204] [205] [206])
+\openout2 = ./sections/RateofChange.aux
+ (./Sections/RateofChange.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--44
+
+ []
+
+[207
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+[208] [209]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
+ []
+
+[210]
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 216--216
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+
+ []
+
+[211]
+Underfull \hbox (badness 10000) in paragraph at lines 235--236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+
+ []
+
+[212]
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
+
+ []
+
+[213]
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+[214] [215
+
+] [216] [217] [218] [219] [220] [221])
+\openout2 = ./sections/FunctionsReviewQuestions.aux
+
+(./Sections/FunctionsReviewQuestions.tex [222
+
+
+
+
+] [223] [224] [225]
+<Sections/FunctionsReviewQuestionsImages/Question48Figure01.png, id=5364, 201.7
+5375pt x 134.00063pt>
+File: Sections/FunctionsReviewQuestionsImages/Question48Figure01.png Graphic fi
+le (type png)
+<use Sections/FunctionsReviewQuestionsImages/Question48Figure01.png>
+Package luatex.def Info: Sections/FunctionsReviewQuestionsImages/Question48Figu
+re01.png  used on input line 362.
+(luatex.def)             Requested size: 121.05318pt x 80.40097pt.
+<Sections/FunctionsReviewQuestionsImages/Question48Figure02.png, id=5365, 201.7
+5375pt x 134.00063pt>
+File: Sections/FunctionsReviewQuestionsImages/Question48Figure02.png Graphic fi
+le (type png)
+<use Sections/FunctionsReviewQuestionsImages/Question48Figure02.png>
+Package luatex.def Info: Sections/FunctionsReviewQuestionsImages/Question48Figu
+re02.png  used on input line 362.
+(luatex.def)             Requested size: 121.05318pt x 80.40097pt.
+<Sections/FunctionsReviewQuestionsImages/Question48Figure03.png, id=5366, 204.7
+65pt x 137.01187pt>
+File: Sections/FunctionsReviewQuestionsImages/Question48Figure03.png Graphic fi
+le (type png)
+<use Sections/FunctionsReviewQuestionsImages/Question48Figure03.png>
+Package luatex.def Info: Sections/FunctionsReviewQuestionsImages/Question48Figu
+re03.png  used on input line 362.
+(luatex.def)             Requested size: 122.85992pt x 82.20775pt.
+ [226<./Sections/FunctionsReviewQuestionsImages/Question48Figure01.png><./Sectio
+ns/FunctionsReviewQuestionsImages/Question48Figure02.png><./Sections/FunctionsRe
+viewQuestionsImages/Question48Figure03.png>] [227] [228] [229]) [230
+
+
+
+
+]
+Chapter 5.
+[231]
+\openout2 = ./sections/LinearFunctionsandSlope.aux
+ (./Sections/LinearFunctionsandSlope.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+[232
+
+
+] [233]
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+
+ []
+
+[234]
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+
+ []
+
+[235] [236]
+Underfull \hbox (badness 10000) in paragraph at lines 191--192
+
+ []
+
+<Sections/LinearFunctionsandSlopeImages/Figure01.png, id=5527, 166.82326pt x 11
+0.21175pt>
+File: Sections/LinearFunctionsandSlopeImages/Figure01.png Graphic file (type pn
+g)
+<use Sections/LinearFunctionsandSlopeImages/Figure01.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Figure01.png  u
+sed on input line 211.
+(luatex.def)             Requested size: 166.82285pt x 110.21147pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+[237<./Sections/LinearFunctionsandSlopeImages/Figure01.png>]
+<Sections/LinearFunctionsandSlopeImages/Figure02.png, id=5534, 166.82326pt x 11
+0.21175pt>
+File: Sections/LinearFunctionsandSlopeImages/Figure02.png Graphic file (type pn
+g)
+<use Sections/LinearFunctionsandSlopeImages/Figure02.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Figure02.png  u
+sed on input line 233.
+(luatex.def)             Requested size: 166.82285pt x 110.21147pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--238
+
+ []
+
+<Sections/LinearFunctionsandSlopeImages/Figure03.png, id=5535, 169.23225pt x 11
+0.21175pt>
+File: Sections/LinearFunctionsandSlopeImages/Figure03.png Graphic file (type pn
+g)
+<use Sections/LinearFunctionsandSlopeImages/Figure03.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Figure03.png  u
+sed on input line 243.
+(luatex.def)             Requested size: 169.23184pt x 110.21147pt.
+[238<./Sections/LinearFunctionsandSlopeImages/Figure02.png><./Sections/LinearFun
+ctionsandSlopeImages/Figure03.png>]
+<Sections/LinearFunctionsandSlopeImages/Figure04.png, id=5544, 166.221pt x 109.
+6095pt>
+File: Sections/LinearFunctionsandSlopeImages/Figure04.png Graphic file (type pn
+g)
+<use Sections/LinearFunctionsandSlopeImages/Figure04.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Figure04.png  u
+sed on input line 256.
+(luatex.def)             Requested size: 166.22057pt x 109.6092pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+
+ []
+
+<Sections/LinearFunctionsandSlopeImages/Figure05.png, id=5545, 167.4255pt x 112
+.62074pt>
+File: Sections/LinearFunctionsandSlopeImages/Figure05.png Graphic file (type pn
+g)
+<use Sections/LinearFunctionsandSlopeImages/Figure05.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Figure05.png  u
+sed on input line 279.
+(luatex.def)             Requested size: 167.42508pt x 112.62045pt.
+[239<./Sections/LinearFunctionsandSlopeImages/Figure04.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--310
+
+ []
+
+[240<./Sections/LinearFunctionsandSlopeImages/Figure05.png>] [241] [242
+
+]
+[243]
+
+Package tasks Warning: The width of `item-indent' is too small on line 442.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `label-width' is too small on line 442.
+(tasks)                Please set it at least to 3.204pt.
+
+<Sections/LinearFunctionsandSlopeImages/Exercise23a.png, id=5605, 169.8345pt x 
+112.62074pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise23a.png Graphic file (type
+ png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise23a.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise23a.png
+  used on input line 442.
+(luatex.def)             Requested size: 169.83408pt x 112.62045pt.
+
+Overfull \hbox (8.796pt too wide) in paragraph at lines 442--442
+\TU/Lato(0)/m/n/12 a.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 442.
+(tasks)                Please set it at least to 3.204pt.
+
+<Sections/LinearFunctionsandSlopeImages/Exercise23b.png, id=5606, 168.63pt x 11
+2.62074pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise23b.png Graphic file (type
+ png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise23b.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise23b.png
+  used on input line 442.
+(luatex.def)             Requested size: 168.62958pt x 112.62045pt.
+
+Overfull \hbox (9.552pt too wide) in paragraph at lines 442--442
+\TU/Lato(0)/m/n/12 b.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 442.
+(tasks)                Please set it at least to 3.204pt.
+
+<Sections/LinearFunctionsandSlopeImages/Exercise23c.png, id=5607, 166.82326pt x
+ 111.41624pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise23c.png Graphic file (type
+ png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise23c.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise23c.png
+  used on input line 442.
+(luatex.def)             Requested size: 166.82285pt x 111.41597pt.
+
+Overfull \hbox (8.562pt too wide) in paragraph at lines 442--442
+\TU/Lato(0)/m/n/12 c.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 442.
+(tasks)                Please set it at least to 3.204pt.
+
+<Sections/LinearFunctionsandSlopeImages/Exercise23d.png, id=5608, 166.82326pt x
+ 111.41624pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise23d.png Graphic file (type
+ png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise23d.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise23d.png
+  used on input line 442.
+(luatex.def)             Requested size: 166.82285pt x 111.41597pt.
+
+Overfull \hbox (9.552pt too wide) in paragraph at lines 442--442
+\TU/Lato(0)/m/n/12 d.
+ []
+
+
+Package tasks Warning: The width of `item-indent' is too small on line 456.
+(tasks)                Please set it at least to 3.99957pt.
+
+
+Package tasks Warning: The width of `label-width' is too small on line 456.
+(tasks)                Please set it at least to 3.204pt.
+
+<Sections/LinearFunctionsandSlopeImages/Exercise24a.png, id=5609, 167.4255pt x 
+105.39375pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise24a.png Graphic file (type
+ png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise24a.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise24a.png
+  used on input line 456.
+(luatex.def)             Requested size: 167.42508pt x 105.39348pt.
+
+Overfull \hbox (8.796pt too wide) in paragraph at lines 456--456
+\TU/Lato(0)/m/n/12 a.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 456.
+(tasks)                Please set it at least to 3.204pt.
+
+<Sections/LinearFunctionsandSlopeImages/Exercise24b.png, id=5610, 166.221pt x 1
+10.21175pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise24b.png Graphic file (type
+ png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise24b.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise24b.png
+  used on input line 456.
+(luatex.def)             Requested size: 166.22057pt x 110.21147pt.
+
+Overfull \hbox (9.552pt too wide) in paragraph at lines 456--456
+\TU/Lato(0)/m/n/12 b.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 456.
+(tasks)                Please set it at least to 3.204pt.
+
+<Sections/LinearFunctionsandSlopeImages/Exercise24c.png, id=5611, 163.812pt x 1
+09.00725pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise24c.png Graphic file (type
+ png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise24c.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise24c.png
+  used on input line 456.
+(luatex.def)             Requested size: 163.81158pt x 109.00697pt.
+
+Overfull \hbox (8.562pt too wide) in paragraph at lines 456--456
+\TU/Lato(0)/m/n/12 c.
+ []
+
+
+Package tasks Warning: The width of `label-width' is too small on line 456.
+(tasks)                Please set it at least to 3.204pt.
+
+<Sections/LinearFunctionsandSlopeImages/Exercise24d.png, id=5612, 165.61874pt x
+ 109.6095pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise24d.png Graphic file (type
+ png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise24d.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise24d.png
+  used on input line 456.
+(luatex.def)             Requested size: 165.61833pt x 109.6092pt.
+
+Overfull \hbox (9.552pt too wide) in paragraph at lines 456--456
+\TU/Lato(0)/m/n/12 d.
+ []
+
+[244<./Sections/LinearFunctionsandSlopeImages/Exercise23a.png><./Sections/Linear
+FunctionsandSlopeImages/Exercise23b.png><./Sections/LinearFunctionsandSlopeImage
+s/Exercise23c.png><./Sections/LinearFunctionsandSlopeImages/Exercise23d.png><./S
+ections/LinearFunctionsandSlopeImages/Exercise24a.png><./Sections/LinearFunction
+sandSlopeImages/Exercise24b.png>] [245<./Sections/LinearFunctionsandSlopeImages/
+Exercise24c.png><./Sections/LinearFunctionsandSlopeImages/Exercise24d.png>]
+<Sections/LinearFunctionsandSlopeImages/Exercise43.png, id=5652, 165.61874pt x 
+111.41624pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise43.png Graphic file (type 
+png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise43.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise43.png 
+ used on input line 534.
+(luatex.def)             Requested size: 165.61833pt x 111.41597pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--534
+
+ []
+
+<Sections/LinearFunctionsandSlopeImages/Exercise44.png, id=5653, 166.82326pt x 
+112.0185pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise44.png Graphic file (type 
+png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise44.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise44.png 
+ used on input line 540.
+(luatex.def)             Requested size: 166.82285pt x 112.0182pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
+
+ []
+
+[246<./Sections/LinearFunctionsandSlopeImages/Exercise43.png>]
+<Sections/LinearFunctionsandSlopeImages/Exercise45.png, id=5677, 166.221pt x 11
+3.223pt>
+File: Sections/LinearFunctionsandSlopeImages/Exercise45.png Graphic file (type 
+png)
+<use Sections/LinearFunctionsandSlopeImages/Exercise45.png>
+Package luatex.def Info: Sections/LinearFunctionsandSlopeImages/Exercise45.png 
+ used on input line 545.
+(luatex.def)             Requested size: 166.22057pt x 113.22272pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+
+ []
+
+[247<./Sections/LinearFunctionsandSlopeImages/Exercise44.png><./Sections/LinearF
+unctionsandSlopeImages/Exercise45.png>]
+Overfull \hbox (4.35808pt too wide) in paragraph at lines 593--593
+[]\TU/Lato(0)/m/it/12 57. \TU/Lato(0)/m/n/12 The graph of $\OML/lmm/m/it/12 g\O
+T1/lmr/m/n/12 (\OML/lmm/m/it/12 t\OT1/lmr/m/n/12 )$ \TU/Lato(0)/m/n/12 is a stra
+ight line which passes through the points $\OT1/lmr/m/n/12 (14\OML/lmm/m/it/12 
+; \OT1/lmr/m/n/12 100)$ \TU/Lato(0)/m/n/12 and $\OT1/lmr/m/n/12 (21\OML/lmm/m/i
+t/12 ; \OMS/lmsy/m/n/12 ^^@\OT1/lmr/m/n/12 40)$\TU/Lato(0)/m/n/12 .
+ []
+
+[248])
+\openout2 = ./sections/LinearFunctionsandIntercepts.aux
+ (./Sections/LinearFunctionsandIntercepts.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+[249
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+[250]
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+<Sections/LinearFunctionsandInterceptsImages/Figure01.png, id=5727, 166.221pt x
+ 112.0185pt>
+File: Sections/LinearFunctionsandInterceptsImages/Figure01.png Graphic file (ty
+pe png)
+<use Sections/LinearFunctionsandInterceptsImages/Figure01.png>
+Package luatex.def Info: Sections/LinearFunctionsandInterceptsImages/Figure01.p
+ng  used on input line 113.
+(luatex.def)             Requested size: 166.22057pt x 112.0182pt.
+[251<./Sections/LinearFunctionsandInterceptsImages/Figure01.png>]
+<Sections/LinearFunctionsandInterceptsImages/Figure02.png, id=5735, 166.221pt x
+ 111.41624pt>
+File: Sections/LinearFunctionsandInterceptsImages/Figure02.png Graphic file (ty
+pe png)
+<use Sections/LinearFunctionsandInterceptsImages/Figure02.png>
+Package luatex.def Info: Sections/LinearFunctionsandInterceptsImages/Figure02.p
+ng  used on input line 121.
+(luatex.def)             Requested size: 166.22057pt x 111.41597pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+
+ []
+
+[252<./Sections/LinearFunctionsandInterceptsImages/Figure02.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+[253]
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+[254]
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
+
+ []
+
+[255]
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+[256]
+Underfull \hbox (badness 10000) in paragraph at lines 326--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--358
+
+ []
+
+[257] [258] [259
+
+] [260] [261] [262] [263] [264])
+\openout2 = ./sections/FormulaLinearFunction.aux
+
+(./Sections/FormulaLinearFunction.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+[265
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+[266]
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+
+ []
+
+[267]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+[268]
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+
+ []
+
+[269]
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+[270]
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 252--252
+
+ []
+
+[271] [272] [273] [274
+
+]
+Overfull \hbox (5.06639pt too wide) in paragraph at lines 403--403
+[]\TU/Lato(0)/m/it/12 24. \TU/Lato(0)/m/n/12 Find a for-mula for the lin-ear fun
+c-tion whose graph passes through the points $\OT1/lmr/m/n/12 (\OMS/lmsy/m/n/12
+ ^^@\OT1/lmr/m/n/12 20\OML/lmm/m/it/12 ; \OMS/lmsy/m/n/12 ^^@\OT1/lmr/m/n/12 400
+)$
+ []
+
+[275] [276] [277] [278] [279])
+\openout2 = ./sections/LinearFunctionsGraphs.aux
+ (./Sections/LinearFunctionsGraphs.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
+
+ []
+
+<sections/LinearFunctionsGraphsImages/Figure01.png, id=6126, 168.63pt x 109.609
+5pt>
+File: sections/LinearFunctionsGraphsImages/Figure01.png Graphic file (type png)
+
+<use sections/LinearFunctionsGraphsImages/Figure01.png>
+Package luatex.def Info: sections/LinearFunctionsGraphsImages/Figure01.png  use
+d on input line 52.
+(luatex.def)             Requested size: 168.62958pt x 109.6092pt.
+[280
+
+
+
+
+]
+<sections/LinearFunctionsGraphsImages/Figure02.png, id=6134, 167.4255pt x 112.6
+2074pt>
+File: sections/LinearFunctionsGraphsImages/Figure02.png Graphic file (type png)
+
+<use sections/LinearFunctionsGraphsImages/Figure02.png>
+Package luatex.def Info: sections/LinearFunctionsGraphsImages/Figure02.png  use
+d on input line 69.
+(luatex.def)             Requested size: 167.42508pt x 112.62045pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+
+ []
+
+
+Overfull \hbox (4.67375pt too wide) in paragraph at lines 69--69
+\TU/Lato(0)/m/n/12 Graphing Y1=1.43X–2.07(1.08X–2.75) and Y2=3.12+2.59(0.76X
+-3.55) in the stan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--85
+
+ []
+
+[281<./Sections/LinearFunctionsGraphsImages/Figure01.png><./Sections/LinearFunct
+ionsGraphsImages/Figure02.png>]
+<sections/LinearFunctionsGraphsImages/Figure03.png, id=6145, 166.82326pt x 109.
+00725pt>
+File: sections/LinearFunctionsGraphsImages/Figure03.png Graphic file (type png)
+
+<use sections/LinearFunctionsGraphsImages/Figure03.png>
+Package luatex.def Info: sections/LinearFunctionsGraphsImages/Figure03.png  use
+d on input line 104.
+(luatex.def)             Requested size: 166.82285pt x 109.00697pt.
+<sections/LinearFunctionsGraphsImages/Figure04.png, id=6147, 165.61874pt x 110.
+21175pt>
+File: sections/LinearFunctionsGraphsImages/Figure04.png Graphic file (type png)
+
+<use sections/LinearFunctionsGraphsImages/Figure04.png>
+Package luatex.def Info: sections/LinearFunctionsGraphsImages/Figure04.png  use
+d on input line 119.
+(luatex.def)             Requested size: 165.61833pt x 110.21147pt.
+ [282<./Sections/LinearFunctionsGraphsImages/Figure03.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+[283<./Sections/LinearFunctionsGraphsImages/Figure04.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+[284] [285
+
+] [286] [287] [288])
+\openout2 = ./sections/SystemsofLinearEquations.aux
+ (./Sections/SystemsofLinearEquations.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+[289
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+[290]
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+
+ []
+
+<Sections/SystemsofLinearEquationsImages/Figure01.png, id=6259, 166.82326pt x 1
+09.6095pt>
+File: Sections/SystemsofLinearEquationsImages/Figure01.png Graphic file (type p
+ng)
+<use Sections/SystemsofLinearEquationsImages/Figure01.png>
+Package luatex.def Info: Sections/SystemsofLinearEquationsImages/Figure01.png  
+used on input line 99.
+(luatex.def)             Requested size: 166.82285pt x 109.6092pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
+
+ []
+
+[291<./Sections/SystemsofLinearEquationsImages/Figure01.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+<Sections/SystemsofLinearEquationsImages/Figure02.png, id=6271, 168.63pt x 112.
+62074pt>
+File: Sections/SystemsofLinearEquationsImages/Figure02.png Graphic file (type p
+ng)
+<use Sections/SystemsofLinearEquationsImages/Figure02.png>
+Package luatex.def Info: Sections/SystemsofLinearEquationsImages/Figure02.png  
+used on input line 124.
+(luatex.def)             Requested size: 168.62958pt x 112.62045pt.
+[292<./Sections/SystemsofLinearEquationsImages/Figure02.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+[293] [294] [295] [296]
+Underfull \hbox (badness 10000) in paragraph at lines 299--300
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+ []
+
+[297]
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+ []
+
+[298]
+Underfull \hbox (badness 10000) in paragraph at lines 428--428
+
+ []
+
+[299]
+Underfull \hbox (badness 10000) in paragraph at lines 438--440
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--442
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
+
+ []
+
+[300]
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--473
+
+ []
+
+[301] [302
+
+] [303] [304] [305] [306] [307] [308])
+\openout2 = ./sections/LinearFunctionsReviewQuestions.aux
+
+(./Sections/LinearFunctionsReviewQuestions.tex [309
+
+
+
+
+] [310] [311] [312])
+Appendix A.
+[313
+
+
+
+
+
+] [314] [315] [316] [317] [318] [319] [320] [321] [322] [323] [324]
+[325] [326] [327] [328] [329] [330]
+Underfull \hbox (badness 7362) in paragraph at lines 312--312
+[]\TU/Lato(0)/m/n/12 George James, Huang Li, Cooper
+ []
+
+<Sections/FunctionsandGraphsImages/Answer15a.png, id=7365, 163.812pt x 111.4162
+4pt>
+File: Sections/FunctionsandGraphsImages/Answer15a.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer15a.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer15a.png  used 
+on input line 312.
+(luatex.def)             Requested size: 163.81158pt x 111.41597pt.
+<Sections/FunctionsandGraphsImages/Answer15b.png, id=7366, 167.4255pt x 112.620
+74pt>
+File: Sections/FunctionsandGraphsImages/Answer15b.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer15b.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer15b.png  used 
+on input line 312.
+(luatex.def)             Requested size: 167.42508pt x 112.62045pt.
+<Sections/FunctionsandGraphsImages/Answer17a.png, id=7367, 168.63pt x 109.6095p
+t>
+File: Sections/FunctionsandGraphsImages/Answer17a.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer17a.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer17a.png  used 
+on input line 312.
+(luatex.def)             Requested size: 168.62958pt x 109.6092pt.
+<Sections/FunctionsandGraphsImages/Answer17b.png, id=7368, 166.221pt x 107.2005
+pt>
+File: Sections/FunctionsandGraphsImages/Answer17b.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer17b.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer17b.png  used 
+on input line 312.
+(luatex.def)             Requested size: 166.22057pt x 107.20023pt.
+<Sections/FunctionsandGraphsImages/Answer17c.png, id=7369, 162.6075pt x 111.416
+24pt>
+File: Sections/FunctionsandGraphsImages/Answer17c.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer17c.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer17c.png  used 
+on input line 312.
+(luatex.def)             Requested size: 162.6071pt x 111.41597pt.
+[331<./Sections/FunctionsandGraphsImages/Answer15a.png><./Sections/FunctionsandG
+raphsImages/Answer15b.png><./Sections/FunctionsandGraphsImages/Answer17a.png>]
+<Sections/FunctionsandGraphsImages/Answer17d.png, id=7396, 164.41425pt x 108.40
+5pt>
+File: Sections/FunctionsandGraphsImages/Answer17d.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer17d.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer17d.png  used 
+on input line 312.
+(luatex.def)             Requested size: 164.41383pt x 108.40472pt.
+<Sections/FunctionsandGraphsImages/Answer19a.png, id=7397, 163.20975pt x 111.41
+624pt>
+File: Sections/FunctionsandGraphsImages/Answer19a.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer19a.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer19a.png  used 
+on input line 312.
+(luatex.def)             Requested size: 163.20934pt x 111.41597pt.
+<Sections/FunctionsandGraphsImages/Answer19b.png, id=7398, 166.221pt x 112.0185
+pt>
+File: Sections/FunctionsandGraphsImages/Answer19b.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer19b.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer19b.png  used 
+on input line 312.
+(luatex.def)             Requested size: 166.22057pt x 112.0182pt.
+<Sections/FunctionsandGraphsImages/Answer19c.png, id=7399, 166.221pt x 111.4162
+4pt>
+File: Sections/FunctionsandGraphsImages/Answer19c.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer19c.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer19c.png  used 
+on input line 312.
+(luatex.def)             Requested size: 166.22057pt x 111.41597pt.
+<Sections/FunctionsandGraphsImages/Answer35.png, id=7400, 166.82326pt x 112.018
+5pt>
+File: Sections/FunctionsandGraphsImages/Answer35.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer35.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer35.png  used o
+n input line 312.
+(luatex.def)             Requested size: 166.82285pt x 112.0182pt.
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+<Sections/FunctionsandGraphsImages/Answer37.png, id=7401, 166.82326pt x 112.620
+74pt>
+File: Sections/FunctionsandGraphsImages/Answer37.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer37.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer37.png  used o
+n input line 312.
+(luatex.def)             Requested size: 166.82285pt x 112.62045pt.
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+<Sections/FunctionsandGraphsImages/Answer39.png, id=7402, 166.82326pt x 106.598
+25pt>
+File: Sections/FunctionsandGraphsImages/Answer39.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer39.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer39.png  used o
+n input line 312.
+(luatex.def)             Requested size: 166.82285pt x 106.59798pt.
+[332<./Sections/FunctionsandGraphsImages/Answer17b.png><./Sections/FunctionsandG
+raphsImages/Answer17c.png><./Sections/FunctionsandGraphsImages/Answer17d.png><./
+Sections/FunctionsandGraphsImages/Answer19a.png><./Sections/FunctionsandGraphsIm
+ages/Answer19b.png><./Sections/FunctionsandGraphsImages/Answer19c.png>]
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+<Sections/FunctionsandGraphsImages/Answer41.png, id=7427, 167.4255pt x 113.223p
+t>
+File: Sections/FunctionsandGraphsImages/Answer41.png Graphic file (type png)
+<use Sections/FunctionsandGraphsImages/Answer41.png>
+Package luatex.def Info: Sections/FunctionsandGraphsImages/Answer41.png  used o
+n input line 312.
+(luatex.def)             Requested size: 167.42508pt x 113.22272pt.
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+
+Package multicol Warning: Floats and marginpars not allowed inside `multicols' 
+environment!.
+
+[333] [334] [335] [336]
+Underfull \hbox (badness 10000) in paragraph at lines 312--312
+[]\TU/Lato(0)/m/n/12 In-put: Days since new vari-ant
+ []
+
+[337] [338]
+<Sections/FunctionsReviewQuestionsImages/Question39Figure01.png, id=7620, 215.6
+055pt x 215.00325pt>
+File: Sections/FunctionsReviewQuestionsImages/Question39Figure01.png Graphic fi
+le (type png)
+<use Sections/FunctionsReviewQuestionsImages/Question39Figure01.png>
+Package luatex.def Info: Sections/FunctionsReviewQuestionsImages/Question39Figu
+re01.png  used on input line 312.
+(luatex.def)             Requested size: 215.60497pt x 215.00272pt.
+
+Overfull \hbox (70.89735pt too wide) in paragraph at lines 312--312
+[]\TU/Lato(0)/m/it/12 40. [] []
+ []
+
+<Sections/FunctionsReviewQuestionsImages/Question40Figure01.png, id=7621, 236.0
+82pt x 236.082pt>
+File: Sections/FunctionsReviewQuestionsImages/Question40Figure01.png Graphic fi
+le (type png)
+<use Sections/FunctionsReviewQuestionsImages/Question40Figure01.png>
+Package luatex.def Info: Sections/FunctionsReviewQuestionsImages/Question40Figu
+re01.png  used on input line 312.
+(luatex.def)             Requested size: 236.0814pt x 236.0814pt.
+
+Overfull \hbox (91.3738pt too wide) in paragraph at lines 312--312
+[]\TU/Lato(0)/m/it/12 41. [] []
+ []
+
+[339<./Sections/FunctionsReviewQuestionsImages/Question39Figure01.png><./Section
+s/FunctionsReviewQuestionsImages/Question40Figure01.png>] [340] [341] [342]
+[343] [344] [345] [346]
+Appendix B.
+
+Package xsim Warning: Exercise properties may have changed. Rerun to get them
+(xsim)                synchronized.
+
+[347
+
+
+] (./MAT097-Algebra-Text.aux (./Sections/TitlePage.aux)
+(./Sections/OrderofOperations.aux) (./Sections/Fractions.aux)
+(./Sections/AlgebraicSubstitution.aux)
+(./Sections/ArithmeticReviewQuestions.aux) (./Sections/AlgebraicExpressions.aux
+) (./Sections/Distribution.aux) (./Sections/AlgebraicExpressionsExponents.aux)
+(./Sections/NegativeExponents.aux) (./Sections/CommonFactor.aux)
+(./Sections/SecondDegreeFactor.aux) (./Sections/AlgebraReviewQuestions.aux)
+(./Sections/FirstDegreeEquations.aux) (./Sections/SolveSecondDegree.aux)
+(./Sections/SolveHigherOrderEquations.aux)
+(./Sections/SolvingEquationsReviewQuestions.aux) (./Sections/Functions.aux)
+(./Sections/FunctionsandGraphs.aux) (./Sections/SolvingEquationsGraphically.aux
+) (./Sections/FunctionsandModels.aux) (./Sections/ImplicitFunctions.aux)
+(./Sections/RateofChange.aux) (./Sections/FunctionsReviewQuestions.aux)
+(./Sections/LinearFunctionsandSlope.aux)
+(./Sections/LinearFunctionsandIntercepts.aux)
+(./Sections/FormulaLinearFunction.aux) (./Sections/LinearFunctionsGraphs.aux)
+(./Sections/SystemsofLinearEquations.aux)
+(./Sections/LinearFunctionsReviewQuestions.aux) (./MAT097-Algebra-Text.xsim))
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `MAT097-Algebra-Text.out' has not changed.
+(rerunfilecheck)             Checksum: B5DC5E4B1727575976563820564EDB48;23874.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 111906 strings out of 476435
+ 477212,469519766 words of node,token memory allocated
+ 3995 words of node memory still in use:
+   68 hlist, 10 vlist, 18 rule, 4 local_par, 29 glue, 8 kern, 4 penalty, 1 glyph
+, 547 attribute, 77 glue_spec, 547 attribute_list, 2 write, 24 pdf_literal, 32 p
+df_colorstack nodes
+   avail lists: 1:221,2:9423,3:36516,4:27032,5:2296,6:1913,7:7970,8:367,9:2699,1
+0:221,11:506,12:129
+ 126269 multiletter control sequences out of 65536+600000
+ 122 fonts using 24344215 bytes
+ 94i,16n,116p,210013b,30345s stack positions out of 10000i,1000n,20000p,1000000b,200000s
+{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2024/te
+xmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/texlive/2024/texmf-dist/fonts/enc/
+dvips/lm/lm-mathex.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}
+<c:/texlive/2024/texmf-dist/fonts/truetype/typoland/lato/Lato-Italic.ttf><c:/tex
+live/2024/texmf-dist/fonts/truetype/typoland/lato/Lato-Regular.ttf><c:/texlive/2
+024/texmf-dist/fonts/truetype/typoland/lato/Lato-Bold.ttf><c:/texlive/2024/texmf
+-dist/fonts/type1/public/eurosym/feymr10.pfb><c:/texlive/2024/texmf-dist/fonts/t
+ype1/public/amsfonts/latxfont/line10.pfb><c:/texlive/2024/texmf-dist/fonts/type1
+/public/lm/lmbsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.
+pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx8.pfb><c:/texlive/2024
+/texmf-dist/fonts/type1/public/lm/lmex10.pfb><c:/texlive/2024/texmf-dist/fonts/t
+ype1/public/lm/lmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi
+12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi6.pfb><c:/texlive/2
+024/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/2024/texmf-dist/fonts
+/type1/public/lm/lmmib10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/l
+mr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive
+/2024/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texlive/2024/texmf-dist/font
+s/type1/public/lm/lmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lms
+y10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy6.pfb><c:/texlive/
+2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb><c:/texlive/2024/texmf-dist/font
+s/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2024/texmf-dist/fonts/typ
+e1/public/amsfonts/symbols/msbm10.pfb>
+Output written on MAT097-Algebra-Text.pdf (353 pages, 2264651 bytes).
+
+PDF statistics: 8164 PDF objects out of 8907 (max. 8388607)
+ 7451 compressed objects within 75 object streams
+ 5803 named destinations out of 6186 (max. 131072)
+ 1264 words of extra memory for PDF output out of 10000 (max. 100000000)
+
